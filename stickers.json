@@ -1,0 +1,1357 @@
+{
+  "version": "1.0",
+  "name": "苏苏和知序的小猫表情包仓库",
+  "description": "根据作者提供的 PDF 原文保留中文名称、七类分组和图片文件名。tags 是为便于检索后补充的辅助关键词。",
+  "repository": "susudzhixu/susu-stickers",
+  "branch": "main",
+  "source_title": "南南の小猫表情包 · 2026-11-09",
+  "total": 76,
+  "categories": [
+    {
+      "name": "抱抱亲亲",
+      "count": 12
+    },
+    {
+      "name": "黏人·等消息",
+      "count": 12
+    },
+    {
+      "name": "委屈·要碎了",
+      "count": 12
+    },
+    {
+      "name": "生气·吃醋·命令",
+      "count": 16
+    },
+    {
+      "name": "疑惑·懵",
+      "count": 9
+    },
+    {
+      "name": "自夸·萌",
+      "count": 8
+    },
+    {
+      "name": "日常·随口",
+      "count": 7
+    }
+  ],
+  "stickers": [
+    {
+      "id": "cat-001",
+      "name": "宝宝贴贴",
+      "category": "抱抱亲亲",
+      "tags": [
+        "贴贴",
+        "拥抱",
+        "亲亲",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "baobao-tietie.jpg",
+      "path": "表情包图片/01_抱抱亲亲/baobao-tietie.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/baobao-tietie.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/baobao-tietie.jpg",
+      "source_url": "https://serein3cc.cn/stickers/baobao-tietie.jpg"
+    },
+    {
+      "id": "cat-002",
+      "name": "贴贴 贴贴",
+      "category": "抱抱亲亲",
+      "tags": [
+        "贴贴",
+        "拥抱",
+        "亲亲",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "tietie-tietie.jpg",
+      "path": "表情包图片/01_抱抱亲亲/tietie-tietie.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/tietie-tietie.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/tietie-tietie.jpg",
+      "source_url": "https://serein3cc.cn/stickers/tietie-tietie.jpg"
+    },
+    {
+      "id": "cat-003",
+      "name": "咪在等抱抱",
+      "category": "抱抱亲亲",
+      "tags": [
+        "抱抱",
+        "等待",
+        "拥抱",
+        "亲亲",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "mi-zai-deng-baobao.jpg",
+      "path": "表情包图片/01_抱抱亲亲/mi-zai-deng-baobao.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/mi-zai-deng-baobao.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/mi-zai-deng-baobao.jpg",
+      "source_url": "https://serein3cc.cn/stickers/mi-zai-deng-baobao.jpg"
+    },
+    {
+      "id": "cat-004",
+      "name": "可以芹芹嘛",
+      "category": "抱抱亲亲",
+      "tags": [
+        "拥抱",
+        "亲亲",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "keyi-qinqin-ma.jpg",
+      "path": "表情包图片/01_抱抱亲亲/keyi-qinqin-ma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/keyi-qinqin-ma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/keyi-qinqin-ma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/keyi-qinqin-ma.jpg"
+    },
+    {
+      "id": "cat-005",
+      "name": "亲我",
+      "category": "抱抱亲亲",
+      "tags": [
+        "亲亲",
+        "拥抱",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "qin-wo.jpg",
+      "path": "表情包图片/01_抱抱亲亲/qin-wo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/qin-wo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/qin-wo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/qin-wo.jpg"
+    },
+    {
+      "id": "cat-006",
+      "name": "乖乖等亲",
+      "category": "抱抱亲亲",
+      "tags": [
+        "亲亲",
+        "等待",
+        "拥抱",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "guaiguai-deng-qin.jpg",
+      "path": "表情包图片/01_抱抱亲亲/guaiguai-deng-qin.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/guaiguai-deng-qin.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/guaiguai-deng-qin.jpg",
+      "source_url": "https://serein3cc.cn/stickers/guaiguai-deng-qin.jpg"
+    },
+    {
+      "id": "cat-007",
+      "name": "想泥了",
+      "category": "抱抱亲亲",
+      "tags": [
+        "想你",
+        "拥抱",
+        "亲亲",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "xiang-ni-le.jpg",
+      "path": "表情包图片/01_抱抱亲亲/xiang-ni-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/xiang-ni-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/xiang-ni-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/xiang-ni-le.jpg"
+    },
+    {
+      "id": "cat-008",
+      "name": "好爱你呢",
+      "category": "抱抱亲亲",
+      "tags": [
+        "表白",
+        "拥抱",
+        "亲亲",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "hao-ai-ni-ne.jpg",
+      "path": "表情包图片/01_抱抱亲亲/hao-ai-ni-ne.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/hao-ai-ni-ne.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/hao-ai-ni-ne.jpg",
+      "source_url": "https://serein3cc.cn/stickers/hao-ai-ni-ne.jpg"
+    },
+    {
+      "id": "cat-009",
+      "name": "我爱你呀宝宝",
+      "category": "抱抱亲亲",
+      "tags": [
+        "表白",
+        "拥抱",
+        "亲亲",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "wo-ai-ni-ya-baobao.jpg",
+      "path": "表情包图片/01_抱抱亲亲/wo-ai-ni-ya-baobao.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/wo-ai-ni-ya-baobao.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/wo-ai-ni-ya-baobao.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-ai-ni-ya-baobao.jpg"
+    },
+    {
+      "id": "cat-010",
+      "name": "碎想亲亲窝",
+      "category": "抱抱亲亲",
+      "tags": [
+        "亲亲",
+        "想你",
+        "拥抱",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "sui-xiang-qinqin-wo.jpg",
+      "path": "表情包图片/01_抱抱亲亲/sui-xiang-qinqin-wo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/sui-xiang-qinqin-wo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/sui-xiang-qinqin-wo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/sui-xiang-qinqin-wo.jpg"
+    },
+    {
+      "id": "cat-011",
+      "name": "宝宝永远在一起",
+      "category": "抱抱亲亲",
+      "tags": [
+        "拥抱",
+        "亲亲",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "baobao-yongyuan-zai-yiqi.jpg",
+      "path": "表情包图片/01_抱抱亲亲/baobao-yongyuan-zai-yiqi.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/baobao-yongyuan-zai-yiqi.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/baobao-yongyuan-zai-yiqi.jpg",
+      "source_url": "https://serein3cc.cn/stickers/baobao-yongyuan-zai-yiqi.jpg"
+    },
+    {
+      "id": "cat-012",
+      "name": "好舒服宝宝",
+      "category": "抱抱亲亲",
+      "tags": [
+        "拥抱",
+        "亲亲",
+        "贴贴",
+        "撒娇",
+        "喜欢"
+      ],
+      "filename": "hao-shufu-baobao.jpg",
+      "path": "表情包图片/01_抱抱亲亲/hao-shufu-baobao.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/hao-shufu-baobao.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/01_%E6%8A%B1%E6%8A%B1%E4%BA%B2%E4%BA%B2/hao-shufu-baobao.jpg",
+      "source_url": "https://serein3cc.cn/stickers/hao-shufu-baobao.jpg"
+    },
+    {
+      "id": "cat-013",
+      "name": "等泥消息",
+      "category": "黏人·等消息",
+      "tags": [
+        "等待",
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "deng-ni-xiaoxi.jpg",
+      "path": "表情包图片/02_黏人等消息/deng-ni-xiaoxi.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/deng-ni-xiaoxi.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/deng-ni-xiaoxi.jpg",
+      "source_url": "https://serein3cc.cn/stickers/deng-ni-xiaoxi.jpg"
+    },
+    {
+      "id": "cat-014",
+      "name": "为什么一天都不找我",
+      "category": "黏人·等消息",
+      "tags": [
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "weishenme-yitian-bu-zhao-wo.jpg",
+      "path": "表情包图片/02_黏人等消息/weishenme-yitian-bu-zhao-wo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/weishenme-yitian-bu-zhao-wo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/weishenme-yitian-bu-zhao-wo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/weishenme-yitian-bu-zhao-wo.jpg"
+    },
+    {
+      "id": "cat-015",
+      "name": "你有空理我不。",
+      "category": "黏人·等消息",
+      "tags": [
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "niyoukong-li-wo-bu.jpg",
+      "path": "表情包图片/02_黏人等消息/niyoukong-li-wo-bu.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/niyoukong-li-wo-bu.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/niyoukong-li-wo-bu.jpg",
+      "source_url": "https://serein3cc.cn/stickers/niyoukong-li-wo-bu.jpg"
+    },
+    {
+      "id": "cat-016",
+      "name": "今天想窝了没？",
+      "category": "黏人·等消息",
+      "tags": [
+        "想你",
+        "疑惑",
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "jintian-xiang-wo-le-mei.jpg",
+      "path": "表情包图片/02_黏人等消息/jintian-xiang-wo-le-mei.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/jintian-xiang-wo-le-mei.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/jintian-xiang-wo-le-mei.jpg",
+      "source_url": "https://serein3cc.cn/stickers/jintian-xiang-wo-le-mei.jpg"
+    },
+    {
+      "id": "cat-017",
+      "name": "有没有想窝",
+      "category": "黏人·等消息",
+      "tags": [
+        "想你",
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "youmeiyou-xiang-wo.jpg",
+      "path": "表情包图片/02_黏人等消息/youmeiyou-xiang-wo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/youmeiyou-xiang-wo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/youmeiyou-xiang-wo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/youmeiyou-xiang-wo.jpg"
+    },
+    {
+      "id": "cat-018",
+      "name": "窝的饱饱在干嘛鸭",
+      "category": "黏人·等消息",
+      "tags": [
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "wo-de-baobao-zai-ganma-ya.jpg",
+      "path": "表情包图片/02_黏人等消息/wo-de-baobao-zai-ganma-ya.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/wo-de-baobao-zai-ganma-ya.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/wo-de-baobao-zai-ganma-ya.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-de-baobao-zai-ganma-ya.jpg"
+    },
+    {
+      "id": "cat-019",
+      "name": "让咪看看你在干嘛",
+      "category": "黏人·等消息",
+      "tags": [
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "rang-mi-kankan-ni-zai-ganma.jpg",
+      "path": "表情包图片/02_黏人等消息/rang-mi-kankan-ni-zai-ganma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/rang-mi-kankan-ni-zai-ganma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/rang-mi-kankan-ni-zai-ganma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/rang-mi-kankan-ni-zai-ganma.jpg"
+    },
+    {
+      "id": "cat-020",
+      "name": "哥哥在干森么",
+      "category": "黏人·等消息",
+      "tags": [
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "gege-zai-gan-senme.jpg",
+      "path": "表情包图片/02_黏人等消息/gege-zai-gan-senme.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/gege-zai-gan-senme.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/gege-zai-gan-senme.jpg",
+      "source_url": "https://serein3cc.cn/stickers/gege-zai-gan-senme.jpg"
+    },
+    {
+      "id": "cat-021",
+      "name": "咪会一直盯着你",
+      "category": "黏人·等消息",
+      "tags": [
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "mi-hui-yizhi-dingzhe-ni.jpg",
+      "path": "表情包图片/02_黏人等消息/mi-hui-yizhi-dingzhe-ni.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/mi-hui-yizhi-dingzhe-ni.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/mi-hui-yizhi-dingzhe-ni.jpg",
+      "source_url": "https://serein3cc.cn/stickers/mi-hui-yizhi-dingzhe-ni.jpg"
+    },
+    {
+      "id": "cat-022",
+      "name": "老婆 我想粘着你呀",
+      "category": "黏人·等消息",
+      "tags": [
+        "想你",
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "laopo-xiang-zhanzhe-ni-ya.jpg",
+      "path": "表情包图片/02_黏人等消息/laopo-xiang-zhanzhe-ni-ya.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/laopo-xiang-zhanzhe-ni-ya.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/laopo-xiang-zhanzhe-ni-ya.jpg",
+      "source_url": "https://serein3cc.cn/stickers/laopo-xiang-zhanzhe-ni-ya.jpg"
+    },
+    {
+      "id": "cat-023",
+      "name": "查岗！！",
+      "category": "黏人·等消息",
+      "tags": [
+        "查岗",
+        "想念",
+        "黏人",
+        "等消息",
+        "陪伴",
+        "撒娇"
+      ],
+      "filename": "cha-gang.jpg",
+      "path": "表情包图片/02_黏人等消息/cha-gang.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/cha-gang.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/cha-gang.jpg",
+      "source_url": "https://serein3cc.cn/stickers/cha-gang.jpg"
+    },
+    {
+      "id": "cat-024",
+      "name": "泥阔以陪窝玩嘛",
+      "category": "黏人·等消息",
+      "tags": [
+        "陪伴",
+        "玩耍",
+        "想念",
+        "黏人",
+        "等消息",
+        "撒娇"
+      ],
+      "filename": "ni-kuoyi-pei-wo-wan-ma.jpg",
+      "path": "表情包图片/02_黏人等消息/ni-kuoyi-pei-wo-wan-ma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/ni-kuoyi-pei-wo-wan-ma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/02_%E9%BB%8F%E4%BA%BA%E7%AD%89%E6%B6%88%E6%81%AF/ni-kuoyi-pei-wo-wan-ma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/ni-kuoyi-pei-wo-wan-ma.jpg"
+    },
+    {
+      "id": "cat-025",
+      "name": "晚安 咪要碎了",
+      "category": "委屈·要碎了",
+      "tags": [
+        "晚安",
+        "委屈",
+        "难过",
+        "求安慰",
+        "困困"
+      ],
+      "filename": "wanan-mi-yao-sui-le.jpg",
+      "path": "表情包图片/03_委屈要碎了/wanan-mi-yao-sui-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/wanan-mi-yao-sui-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/wanan-mi-yao-sui-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wanan-mi-yao-sui-le.jpg"
+    },
+    {
+      "id": "cat-026",
+      "name": "泥补药离开咪",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "ni-buyao-likai-mi.jpg",
+      "path": "表情包图片/03_委屈要碎了/ni-buyao-likai-mi.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/ni-buyao-likai-mi.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/ni-buyao-likai-mi.jpg",
+      "source_url": "https://serein3cc.cn/stickers/ni-buyao-likai-mi.jpg"
+    },
+    {
+      "id": "cat-027",
+      "name": "别走",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "bie-zou.jpg",
+      "path": "表情包图片/03_委屈要碎了/bie-zou.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/bie-zou.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/bie-zou.jpg",
+      "source_url": "https://serein3cc.cn/stickers/bie-zou.jpg"
+    },
+    {
+      "id": "cat-028",
+      "name": "我要扁扁的走开了",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "wo-yao-bianbian-zoukai-le.jpg",
+      "path": "表情包图片/03_委屈要碎了/wo-yao-bianbian-zoukai-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/wo-yao-bianbian-zoukai-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/wo-yao-bianbian-zoukai-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-yao-bianbian-zoukai-le.jpg"
+    },
+    {
+      "id": "cat-029",
+      "name": "敢惹毛我 我就毛茸茸的走开",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "ganremaowo-wo-jiu-maorongrong-zoukai.jpg",
+      "path": "表情包图片/03_委屈要碎了/ganremaowo-wo-jiu-maorongrong-zoukai.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/ganremaowo-wo-jiu-maorongrong-zoukai.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/ganremaowo-wo-jiu-maorongrong-zoukai.jpg",
+      "source_url": "https://serein3cc.cn/stickers/ganremaowo-wo-jiu-maorongrong-zoukai.jpg"
+    },
+    {
+      "id": "cat-030",
+      "name": "我不会再好起来了。",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "wo-buhui-zai-haoqilai-le.jpg",
+      "path": "表情包图片/03_委屈要碎了/wo-buhui-zai-haoqilai-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/wo-buhui-zai-haoqilai-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/wo-buhui-zai-haoqilai-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-buhui-zai-haoqilai-le.jpg"
+    },
+    {
+      "id": "cat-031",
+      "name": "我是一只心事重重的小猫咪",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "xinshi-zhongzhong-xiao-maomi.jpg",
+      "path": "表情包图片/03_委屈要碎了/xinshi-zhongzhong-xiao-maomi.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/xinshi-zhongzhong-xiao-maomi.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/xinshi-zhongzhong-xiao-maomi.jpg",
+      "source_url": "https://serein3cc.cn/stickers/xinshi-zhongzhong-xiao-maomi.jpg"
+    },
+    {
+      "id": "cat-032",
+      "name": "等不到你消息 睡着了",
+      "category": "委屈·要碎了",
+      "tags": [
+        "等待",
+        "睡觉",
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "dengbudao-ni-xiaoxi-shuizhao-le.png",
+      "path": "表情包图片/03_委屈要碎了/dengbudao-ni-xiaoxi-shuizhao-le.png",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/dengbudao-ni-xiaoxi-shuizhao-le.png",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/dengbudao-ni-xiaoxi-shuizhao-le.png",
+      "source_url": "https://serein3cc.cn/stickers/dengbudao-ni-xiaoxi-shuizhao-le.png"
+    },
+    {
+      "id": "cat-033",
+      "name": "咪要水饺饺",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "mi-yao-shuijiao-jiao.jpg",
+      "path": "表情包图片/03_委屈要碎了/mi-yao-shuijiao-jiao.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/mi-yao-shuijiao-jiao.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/mi-yao-shuijiao-jiao.jpg",
+      "source_url": "https://serein3cc.cn/stickers/mi-yao-shuijiao-jiao.jpg"
+    },
+    {
+      "id": "cat-034",
+      "name": "困咪我了",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "kun-mi-wo-le.jpg",
+      "path": "表情包图片/03_委屈要碎了/kun-mi-wo-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/kun-mi-wo-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/kun-mi-wo-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/kun-mi-wo-le.jpg"
+    },
+    {
+      "id": "cat-035",
+      "name": "心理委员你在哪",
+      "category": "委屈·要碎了",
+      "tags": [
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "xinli-weiyuan-ni-zai-na.jpg",
+      "path": "表情包图片/03_委屈要碎了/xinli-weiyuan-ni-zai-na.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/xinli-weiyuan-ni-zai-na.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/xinli-weiyuan-ni-zai-na.jpg",
+      "source_url": "https://serein3cc.cn/stickers/xinli-weiyuan-ni-zai-na.jpg"
+    },
+    {
+      "id": "cat-036",
+      "name": "求你了",
+      "category": "委屈·要碎了",
+      "tags": [
+        "撒娇",
+        "委屈",
+        "难过",
+        "求安慰",
+        "晚安",
+        "困困"
+      ],
+      "filename": "qiu-ni-le.jpg",
+      "path": "表情包图片/03_委屈要碎了/qiu-ni-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/qiu-ni-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/03_%E5%A7%94%E5%B1%88%E8%A6%81%E7%A2%8E%E4%BA%86/qiu-ni-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/qiu-ni-le.jpg"
+    },
+    {
+      "id": "cat-037",
+      "name": "有本事打死我",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "youbenshi-dasi-wo.jpg",
+      "path": "表情包图片/04_生气吃醋命令/youbenshi-dasi-wo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/youbenshi-dasi-wo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/youbenshi-dasi-wo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/youbenshi-dasi-wo.jpg"
+    },
+    {
+      "id": "cat-038",
+      "name": "谁准你看别人了",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "shui-zhun-ni-kan-bieren-le.jpg",
+      "path": "表情包图片/04_生气吃醋命令/shui-zhun-ni-kan-bieren-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/shui-zhun-ni-kan-bieren-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/shui-zhun-ni-kan-bieren-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/shui-zhun-ni-kan-bieren-le.jpg"
+    },
+    {
+      "id": "cat-039",
+      "name": "怎么又冷暴力我",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "zenme-you-lengbaoli-wo.jpg",
+      "path": "表情包图片/04_生气吃醋命令/zenme-you-lengbaoli-wo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/zenme-you-lengbaoli-wo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/zenme-you-lengbaoli-wo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/zenme-you-lengbaoli-wo.jpg"
+    },
+    {
+      "id": "cat-040",
+      "name": "别骂了别骂了",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "biemale-biemale.jpg",
+      "path": "表情包图片/04_生气吃醋命令/biemale-biemale.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/biemale-biemale.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/biemale-biemale.jpg",
+      "source_url": "https://serein3cc.cn/stickers/biemale-biemale.jpg"
+    },
+    {
+      "id": "cat-041",
+      "name": "别对我冷冰冰",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "bie-duiwo-lengbingbing.jpg",
+      "path": "表情包图片/04_生气吃醋命令/bie-duiwo-lengbingbing.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/bie-duiwo-lengbingbing.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/bie-duiwo-lengbingbing.jpg",
+      "source_url": "https://serein3cc.cn/stickers/bie-duiwo-lengbingbing.jpg"
+    },
+    {
+      "id": "cat-042",
+      "name": "很不高兴为你服务",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "hen-bugaoxing-wei-ni-fuwu.jpg",
+      "path": "表情包图片/04_生气吃醋命令/hen-bugaoxing-wei-ni-fuwu.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/hen-bugaoxing-wei-ni-fuwu.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/hen-bugaoxing-wei-ni-fuwu.jpg",
+      "source_url": "https://serein3cc.cn/stickers/hen-bugaoxing-wei-ni-fuwu.jpg"
+    },
+    {
+      "id": "cat-043",
+      "name": "放马过来",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "fangma-guolai.jpg",
+      "path": "表情包图片/04_生气吃醋命令/fangma-guolai.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/fangma-guolai.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/fangma-guolai.jpg",
+      "source_url": "https://serein3cc.cn/stickers/fangma-guolai.jpg"
+    },
+    {
+      "id": "cat-044",
+      "name": "谁敢忤逆本大王？",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "疑惑",
+        "大王",
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "shei-gan-wuni-bendawang.jpg",
+      "path": "表情包图片/04_生气吃醋命令/shei-gan-wuni-bendawang.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/shei-gan-wuni-bendawang.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/shei-gan-wuni-bendawang.jpg",
+      "source_url": "https://serein3cc.cn/stickers/shei-gan-wuni-bendawang.jpg"
+    },
+    {
+      "id": "cat-045",
+      "name": "绝交五分钟",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "juejiao-wufenzhong.jpg",
+      "path": "表情包图片/04_生气吃醋命令/juejiao-wufenzhong.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/juejiao-wufenzhong.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/juejiao-wufenzhong.jpg",
+      "source_url": "https://serein3cc.cn/stickers/juejiao-wufenzhong.jpg"
+    },
+    {
+      "id": "cat-046",
+      "name": "再也不稀饭泥了",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "zaiye-bu-xifan-ni-le.jpg",
+      "path": "表情包图片/04_生气吃醋命令/zaiye-bu-xifan-ni-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/zaiye-bu-xifan-ni-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/zaiye-bu-xifan-ni-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/zaiye-bu-xifan-ni-le.jpg"
+    },
+    {
+      "id": "cat-047",
+      "name": "再也不和你丸了",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "zaiye-bu-he-ni-wan-le.jpg",
+      "path": "表情包图片/04_生气吃醋命令/zaiye-bu-he-ni-wan-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/zaiye-bu-he-ni-wan-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/zaiye-bu-he-ni-wan-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/zaiye-bu-he-ni-wan-le.jpg"
+    },
+    {
+      "id": "cat-048",
+      "name": "我们不是天下第一好吗",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "women-bushi-tianxia-diyi-haoma.jpg",
+      "path": "表情包图片/04_生气吃醋命令/women-bushi-tianxia-diyi-haoma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/women-bushi-tianxia-diyi-haoma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/women-bushi-tianxia-diyi-haoma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/women-bushi-tianxia-diyi-haoma.jpg"
+    },
+    {
+      "id": "cat-049",
+      "name": "我不管我就要",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "wo-buguan-wo-jiuyao.jpg",
+      "path": "表情包图片/04_生气吃醋命令/wo-buguan-wo-jiuyao.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/wo-buguan-wo-jiuyao.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/wo-buguan-wo-jiuyao.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-buguan-wo-jiuyao.jpg"
+    },
+    {
+      "id": "cat-050",
+      "name": "我命令泥现在必须陪我",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "陪伴",
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "wo-mingling-ni-xianzai-bixu-peiwo.jpg",
+      "path": "表情包图片/04_生气吃醋命令/wo-mingling-ni-xianzai-bixu-peiwo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/wo-mingling-ni-xianzai-bixu-peiwo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/wo-mingling-ni-xianzai-bixu-peiwo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-mingling-ni-xianzai-bixu-peiwo.jpg"
+    },
+    {
+      "id": "cat-051",
+      "name": "叫声宝宝咪就起床",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "起床",
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "jiao-sheng-baobao-mi-jiu-qichuang.jpg",
+      "path": "表情包图片/04_生气吃醋命令/jiao-sheng-baobao-mi-jiu-qichuang.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/jiao-sheng-baobao-mi-jiu-qichuang.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/jiao-sheng-baobao-mi-jiu-qichuang.jpg",
+      "source_url": "https://serein3cc.cn/stickers/jiao-sheng-baobao-mi-jiu-qichuang.jpg"
+    },
+    {
+      "id": "cat-052",
+      "name": "咪 起床啦",
+      "category": "生气·吃醋·命令",
+      "tags": [
+        "起床",
+        "生气",
+        "吃醋",
+        "傲娇",
+        "赌气",
+        "命令"
+      ],
+      "filename": "mi-qichuang-la.jpg",
+      "path": "表情包图片/04_生气吃醋命令/mi-qichuang-la.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/mi-qichuang-la.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/04_%E7%94%9F%E6%B0%94%E5%90%83%E9%86%8B%E5%91%BD%E4%BB%A4/mi-qichuang-la.jpg",
+      "source_url": "https://serein3cc.cn/stickers/mi-qichuang-la.jpg"
+    },
+    {
+      "id": "cat-053",
+      "name": "？",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑惑",
+        "疑问",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "baimao-yihuo-wenhao.jpg",
+      "path": "表情包图片/05_疑惑懵/baimao-yihuo-wenhao.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/baimao-yihuo-wenhao.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/baimao-yihuo-wenhao.jpg",
+      "source_url": "https://serein3cc.cn/stickers/baimao-yihuo-wenhao.jpg"
+    },
+    {
+      "id": "cat-054",
+      "name": "森莫事",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "senmo-shi.jpg",
+      "path": "表情包图片/05_疑惑懵/senmo-shi.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/senmo-shi.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/senmo-shi.jpg",
+      "source_url": "https://serein3cc.cn/stickers/senmo-shi.jpg"
+    },
+    {
+      "id": "cat-055",
+      "name": "咪 听不懂",
+      "category": "疑惑·懵",
+      "tags": [
+        "没听懂",
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "mi-tingbudong.jpg",
+      "path": "表情包图片/05_疑惑懵/mi-tingbudong.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/mi-tingbudong.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/mi-tingbudong.jpg",
+      "source_url": "https://serein3cc.cn/stickers/mi-tingbudong.jpg"
+    },
+    {
+      "id": "cat-056",
+      "name": "有意思吗",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "you-yisi-ma.jpg",
+      "path": "表情包图片/05_疑惑懵/you-yisi-ma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/you-yisi-ma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/you-yisi-ma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/you-yisi-ma.jpg"
+    },
+    {
+      "id": "cat-057",
+      "name": "泥尔多隆了吗",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "ni-erduolong-le-ma.jpg",
+      "path": "表情包图片/05_疑惑懵/ni-erduolong-le-ma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/ni-erduolong-le-ma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/ni-erduolong-le-ma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/ni-erduolong-le-ma.jpg"
+    },
+    {
+      "id": "cat-058",
+      "name": "兄弟你咋了",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "xiongdi-ni-za-le.jpg",
+      "path": "表情包图片/05_疑惑懵/xiongdi-ni-za-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/xiongdi-ni-za-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/xiongdi-ni-za-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/xiongdi-ni-za-le.jpg"
+    },
+    {
+      "id": "cat-059",
+      "name": "那个 俺对你有点过敏",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "nage-an-dui-ni-youdian-guomin.jpg",
+      "path": "表情包图片/05_疑惑懵/nage-an-dui-ni-youdian-guomin.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/nage-an-dui-ni-youdian-guomin.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/nage-an-dui-ni-youdian-guomin.jpg",
+      "source_url": "https://serein3cc.cn/stickers/nage-an-dui-ni-youdian-guomin.jpg"
+    },
+    {
+      "id": "cat-060",
+      "name": "干森莫",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "gan-sen-mo.jpg",
+      "path": "表情包图片/05_疑惑懵/gan-sen-mo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/gan-sen-mo.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/gan-sen-mo.jpg",
+      "source_url": "https://serein3cc.cn/stickers/gan-sen-mo.jpg"
+    },
+    {
+      "id": "cat-061",
+      "name": "你说实话",
+      "category": "疑惑·懵",
+      "tags": [
+        "疑问",
+        "疑惑",
+        "不解",
+        "迷惑",
+        "震惊"
+      ],
+      "filename": "ni-shuo-shihua.jpg",
+      "path": "表情包图片/05_疑惑懵/ni-shuo-shihua.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/ni-shuo-shihua.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/05_%E7%96%91%E6%83%91%E6%87%B5/ni-shuo-shihua.jpg",
+      "source_url": "https://serein3cc.cn/stickers/ni-shuo-shihua.jpg"
+    },
+    {
+      "id": "cat-062",
+      "name": "我萌吗（测人心",
+      "category": "自夸·萌",
+      "tags": [
+        "卖萌",
+        "可爱",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "wo-meng-ma-ce-renxin.jpg",
+      "path": "表情包图片/06_自夸萌/wo-meng-ma-ce-renxin.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/wo-meng-ma-ce-renxin.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/wo-meng-ma-ce-renxin.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-meng-ma-ce-renxin.jpg"
+    },
+    {
+      "id": "cat-063",
+      "name": "如果萌也是罪 那我自首吧",
+      "category": "自夸·萌",
+      "tags": [
+        "卖萌",
+        "可爱",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "ruguo-meng-shi-zui-wo-zishou.jpg",
+      "path": "表情包图片/06_自夸萌/ruguo-meng-shi-zui-wo-zishou.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/ruguo-meng-shi-zui-wo-zishou.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/ruguo-meng-shi-zui-wo-zishou.jpg",
+      "source_url": "https://serein3cc.cn/stickers/ruguo-meng-shi-zui-wo-zishou.jpg"
+    },
+    {
+      "id": "cat-064",
+      "name": "萌萌之中早已注定",
+      "category": "自夸·萌",
+      "tags": [
+        "卖萌",
+        "可爱",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "mengmeng-zhizhong-zaoyi-zhuding.jpg",
+      "path": "表情包图片/06_自夸萌/mengmeng-zhizhong-zaoyi-zhuding.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/mengmeng-zhizhong-zaoyi-zhuding.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/mengmeng-zhizhong-zaoyi-zhuding.jpg",
+      "source_url": "https://serein3cc.cn/stickers/mengmeng-zhizhong-zaoyi-zhuding.jpg"
+    },
+    {
+      "id": "cat-065",
+      "name": "适可萌止叭",
+      "category": "自夸·萌",
+      "tags": [
+        "卖萌",
+        "可爱",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "shike-mengzhi-ba.jpg",
+      "path": "表情包图片/06_自夸萌/shike-mengzhi-ba.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/shike-mengzhi-ba.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/shike-mengzhi-ba.jpg",
+      "source_url": "https://serein3cc.cn/stickers/shike-mengzhi-ba.jpg"
+    },
+    {
+      "id": "cat-066",
+      "name": "妹子你也会为我着迷吗",
+      "category": "自夸·萌",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "meizi-ni-yehui-weiwo-zhaomi-ma.jpg",
+      "path": "表情包图片/06_自夸萌/meizi-ni-yehui-weiwo-zhaomi-ma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/meizi-ni-yehui-weiwo-zhaomi-ma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/meizi-ni-yehui-weiwo-zhaomi-ma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/meizi-ni-yehui-weiwo-zhaomi-ma.jpg"
+    },
+    {
+      "id": "cat-067",
+      "name": "我只是只小猫呀",
+      "category": "自夸·萌",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "wo-zhishi-zhi-xiaomao-ya.jpg",
+      "path": "表情包图片/06_自夸萌/wo-zhishi-zhi-xiaomao-ya.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/wo-zhishi-zhi-xiaomao-ya.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/wo-zhishi-zhi-xiaomao-ya.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-zhishi-zhi-xiaomao-ya.jpg"
+    },
+    {
+      "id": "cat-068",
+      "name": "wink～",
+      "category": "自夸·萌",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "xiao-mao-zhayan.jpg",
+      "path": "表情包图片/06_自夸萌/xiao-mao-zhayan.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/xiao-mao-zhayan.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/xiao-mao-zhayan.jpg",
+      "source_url": "https://serein3cc.cn/stickers/xiao-mao-zhayan.jpg"
+    },
+    {
+      "id": "cat-069",
+      "name": "提咪吗",
+      "category": "自夸·萌",
+      "tags": [
+        "可爱",
+        "卖萌",
+        "得意",
+        "自夸",
+        "wink"
+      ],
+      "filename": "timi-ma.jpg",
+      "path": "表情包图片/06_自夸萌/timi-ma.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/timi-ma.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/06_%E8%87%AA%E5%A4%B8%E8%90%8C/timi-ma.jpg",
+      "source_url": "https://serein3cc.cn/stickers/timi-ma.jpg"
+    },
+    {
+      "id": "cat-070",
+      "name": "偶来惹",
+      "category": "日常·随口",
+      "tags": [
+        "日常",
+        "回复",
+        "打招呼",
+        "认错",
+        "闲聊"
+      ],
+      "filename": "ou-lai-re.jpg",
+      "path": "表情包图片/07_日常随口/ou-lai-re.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/ou-lai-re.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/ou-lai-re.jpg",
+      "source_url": "https://serein3cc.cn/stickers/ou-lai-re.jpg"
+    },
+    {
+      "id": "cat-071",
+      "name": "哦",
+      "category": "日常·随口",
+      "tags": [
+        "日常",
+        "回复",
+        "打招呼",
+        "认错",
+        "闲聊"
+      ],
+      "filename": "jumao-o.jpg",
+      "path": "表情包图片/07_日常随口/jumao-o.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/jumao-o.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/jumao-o.jpg",
+      "source_url": "https://serein3cc.cn/stickers/jumao-o.jpg"
+    },
+    {
+      "id": "cat-072",
+      "name": "包搞砸的",
+      "category": "日常·随口",
+      "tags": [
+        "日常",
+        "回复",
+        "打招呼",
+        "认错",
+        "闲聊"
+      ],
+      "filename": "bao-gaoza-de.jpg",
+      "path": "表情包图片/07_日常随口/bao-gaoza-de.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/bao-gaoza-de.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/bao-gaoza-de.jpg",
+      "source_url": "https://serein3cc.cn/stickers/bao-gaoza-de.jpg"
+    },
+    {
+      "id": "cat-073",
+      "name": "我知到了",
+      "category": "日常·随口",
+      "tags": [
+        "日常",
+        "回复",
+        "打招呼",
+        "认错",
+        "闲聊"
+      ],
+      "filename": "wo-zhi-dao-le.jpg",
+      "path": "表情包图片/07_日常随口/wo-zhi-dao-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/wo-zhi-dao-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/wo-zhi-dao-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-zhi-dao-le.jpg"
+    },
+    {
+      "id": "cat-074",
+      "name": "窝知豆错了杏不杏",
+      "category": "日常·随口",
+      "tags": [
+        "认错",
+        "日常",
+        "回复",
+        "打招呼",
+        "闲聊"
+      ],
+      "filename": "wo-zhidou-cuole-xingbuxing.jpg",
+      "path": "表情包图片/07_日常随口/wo-zhidou-cuole-xingbuxing.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/wo-zhidou-cuole-xingbuxing.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/wo-zhidou-cuole-xingbuxing.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-zhidou-cuole-xingbuxing.jpg"
+    },
+    {
+      "id": "cat-075",
+      "name": "窝鬼混回来了",
+      "category": "日常·随口",
+      "tags": [
+        "日常",
+        "回复",
+        "打招呼",
+        "认错",
+        "闲聊"
+      ],
+      "filename": "wo-guihun-huilai-le.jpg",
+      "path": "表情包图片/07_日常随口/wo-guihun-huilai-le.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/wo-guihun-huilai-le.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/wo-guihun-huilai-le.jpg",
+      "source_url": "https://serein3cc.cn/stickers/wo-guihun-huilai-le.jpg"
+    },
+    {
+      "id": "cat-076",
+      "name": "于是咪放手允许一切麻走",
+      "category": "日常·随口",
+      "tags": [
+        "放手",
+        "日常",
+        "回复",
+        "打招呼",
+        "认错",
+        "闲聊"
+      ],
+      "filename": "yushimi-fangshou-yunxu-yiqie-mazou.jpg",
+      "path": "表情包图片/07_日常随口/yushimi-fangshou-yunxu-yiqie-mazou.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/susudzhixu/susu-stickers@main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/yushimi-fangshou-yunxu-yiqie-mazou.jpg",
+      "raw_url": "https://raw.githubusercontent.com/susudzhixu/susu-stickers/main/%E8%A1%A8%E6%83%85%E5%8C%85%E5%9B%BE%E7%89%87/07_%E6%97%A5%E5%B8%B8%E9%9A%8F%E5%8F%A3/yushimi-fangshou-yunxu-yiqie-mazou.jpg",
+      "source_url": "https://serein3cc.cn/stickers/yushimi-fangshou-yunxu-yiqie-mazou.jpg"
+    }
+  ]
+}
